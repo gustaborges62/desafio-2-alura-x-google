@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Frutiger Aero Python",
+  "description": "Calculadora gráfica em Python com as 4 operações básicas no estilo nostálgico Frutiger Aero dos anos 2000 (efeito glossy, glassmorphism e cores vibrantes).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
